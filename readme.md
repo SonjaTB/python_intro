@@ -1,4 +1,4 @@
-# Python Introduction for Pandas and JSON
-## background
-This is an introduction for Pandas and JSON
-## What did we do?
+# Python Introduction to Pandas and JSON
+## Hintergrund
+This is an introduction to Pandas and JSON
+## Was haben wir getan?
